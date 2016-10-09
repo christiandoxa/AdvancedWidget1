@@ -8,6 +8,7 @@
 ![Screenshot 2](https://github.com/zhergiuz/AdvancedWidget1/blob/master/2.png)<br>
 ![Screenshot 3](https://github.com/zhergiuz/AdvancedWidget1/blob/master/3.png)<br>
 ![Screenshot 4](https://github.com/zhergiuz/AdvancedWidget1/blob/master/4.png)<br>
+<img src="https://github.com/zhergiuz/AdvancedWidget1/blob/master/4.png" width="40%" height="40%">
 <br>
 
 ### Identitas
